@@ -9,7 +9,7 @@
 * Придумана и написана логика автоплатежей с помощью базы данных help_translation/management/commands/auto.py и управляется с помощью Сelery, крон можно посмотреть core/settings.py 173-180 строчки.
 * Собраны 3 контейнера в docker-compose.yaml : Redis, Celery,Celery-beat
 
-## Api доступно по localhost/
+## API доступно по localhost/
 
 
 
